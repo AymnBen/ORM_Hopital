@@ -1,4 +1,4 @@
-# Hopital Application
+# Hopital ORM (Object-Relational Mapping)
 
 Application de gestion d'hôpital développée avec **Spring Boot**, **Spring Data JPA** et **MySQL**.  
 Elle permet de gérer les **patients**, **médecins**, **rendez-vous** et **consultations**.
@@ -98,7 +98,7 @@ POST /consultations : Ajouter une consultation<br>
 1. **Cloner le projet :**
 
 ```bash
-git clone <URL_DU_PROJET>
+git clone [<URL_DU_PROJET>](https://github.com/AymnBen/ORM_Hopital)
 cd hopital
 ```
 
