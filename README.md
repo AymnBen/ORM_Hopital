@@ -95,10 +95,10 @@ POST /consultations : Ajouter une consultation<br>
 
 ## ⚙️ Installation 
 
-1. **Cloner le projet :**
+ **Cloner le projet :**
 
 ```bash
-git clone [<URL_DU_PROJET>](https://github.com/AymnBen/ORM_Hopital)
+git clone https://github.com/AymnBen/ORM_Hopital
 cd hopital
 ```
 
